@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marapodi Flix</string>
+    <string name="menu_mensagem">menu_mensagem</string>
+    <string name="menu_volume">menu_volume</string>
+    <string name="menu_avaliacao">menu_avaliacao</string>
+    <string name="menu_episodios">menu_episodios</string>
+</resources>
